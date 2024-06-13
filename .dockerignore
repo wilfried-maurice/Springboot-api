@@ -1,0 +1,5 @@
+#ignoe ALL
+*
+
+#keep
+!target/*.jar
